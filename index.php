@@ -32,7 +32,7 @@
 
 <h3>Enesetutvustus</h3>
 
-    <img src="assets/img/pilt3.jpg">
+    <img src="assets/img/pilt3.jpg" style="margin-left: 25px">
 
 <h4>Haridustee</h4>
 
@@ -60,7 +60,7 @@
 
 <h6>Lemmikspordialad</h6>
 
-<table border="1">
+<table border="1" style="margin-left: 100px;">
     <tr>
         <td>NR#</td>
         <td>Spordiala</td>
