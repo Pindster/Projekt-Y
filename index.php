@@ -5,18 +5,21 @@
 </head>
 <body style="background-color: black; margin-left: 0px;">
 
-<link href="css/styles.css" rel="stylesheet">
+<link href="css/styles.css" rel="stylesheet"/>
 
 <div id="container">
 <div class="top">
-    <img src="assets/img/558520.png">
+    <img style="margin-left: 315px" src="assets/img/558520.png">
 
-    <a href="index.php" class="minust">Minust</a>
+    <a href="minust.html" class="minust">Minust</a>
 
     <div class="links"></div>
 </div>
     </div>
 <div class="valgetaust">
+
+    <!--Here it begins-->
+
 <h1>Minu kontakt:</h1>
  <p>Nimi: Rasmus Pind<br>
     E-mail: rasmus.pind@khk.ee
@@ -40,7 +43,6 @@
     Tartu Ülikool (bakalaureus) 2011-2014<br>
     Tartu Ülikool (magister) 2014-...<br>
     Tartu Kutsehariduskeskus 2015-...</p>
-
 
 <h5>Hobid</h5>
 <ul>
