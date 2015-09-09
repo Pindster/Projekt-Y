@@ -3,22 +3,36 @@
 <head>
     <title>Project-Y</title>
 </head>
-<body>
+<body style="background-color: black; margin-left: 0px;">
 
-<link href="css/styles.css" rel=“stylesheet”>
+<link href="css/styles.css" rel="stylesheet">
 
-<img src="assets/img/558520.png">
+<div id="container">
+<div class="top">
+    <img src="assets/img/558520.png">
 
+    <a href="index.php" class="minust">Minust</a>
+
+    <div class="links"></div>
+</div>
+    </div>
+<div class="valgetaust">
 <h1>Minu kontakt:</h1>
  <p>Nimi: Rasmus Pind<br>
     E-mail: rasmus.pind@khk.ee
 
-<h2>Antoropomeetria</h2>
+
+
+<h2>Antropomeetria</h2>
 
      <p>Minu pikkus: 187cm<br>
         Minu kaal: 78kg</p>
 
+
+
 <h3>Enesetutvustus</h3>
+
+    <img src="assets/img/pilt3.jpg">
 
 <h4>Haridustee</h4>
 
@@ -74,6 +88,10 @@
     </tr>
 </table>
 
+</div>
 
 </body>
+
+<p style="color: white; font-size: 12px; text-align:center">Made by indro © 2015</p>
+
 </html>
