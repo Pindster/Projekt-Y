@@ -3,19 +3,27 @@
 <head>
     <title>Project-Y</title>
 </head>
-<body style="background-color: black; margin-left: 0px;">
+<body style="background-color: black   ; margin-left: 0px;">
 
 <link href="css/styles.css" rel="stylesheet"/>
 
-<div id="container">
-<div class="top">
-    <img style="margin-left: 315px" src="assets/img/558520.png">
+    <img style="float: left; margin-left: 315px" src="assets/img/558520.png">
 
-    <a href="minust.html" class="minust">Minust</a>
 
-    <div class="links"></div>
+<div id="navbar">
+
+    <ul>
+        <li>Link 5</li>
+        <li>Link 4</li>
+        <li>Link 3</li>
+        <li>Link 2</li>
+        <li><a href="minust.html" class="minust">Minust</a></li>
+    </ul>
+
 </div>
-    </div>
+
+
+
 <div class="valgetaust">
 
     <!--Here it begins-->
@@ -39,12 +47,15 @@
 
 <h4>Haridustee</h4>
 
+<ol>
 <p>Tartu Tamme Gümnaasium 1999-2011<br>
     Tartu Ülikool (bakalaureus) 2011-2014<br>
     Tartu Ülikool (magister) 2014-...<br>
     Tartu Kutsehariduskeskus 2015-...</p>
-
+</ol>
 <h5>Hobid</h5>
+
+    <img src="assets/img/sports.jpg" style="margin-left: 25px; height: 100px">
 <ul>
     <li>
     Sport
@@ -62,11 +73,11 @@
 
 <h6>Lemmikspordialad</h6>
 
-<table border="1" style="margin-left: 100px;">
+<table class="rwdtable" border="1" style="margin-left: 20px;">
     <tr>
-        <td>NR#</td>
-        <td>Spordiala</td>
-        <td>Lemmiksportlane</td>
+        <td style="font-weight: bold;">NR#</td>
+        <td style="font-weight: bold;">Spordiala</td>
+        <td style="font-weight: bold;">Lemmiksportlane</td>
     </tr>
     <tr>
         <td>1.</td>
