@@ -32,7 +32,7 @@
  <p>Nimi: Rasmus Pind<br>
     E-mail: rasmus.pind@khk.ee
 
-    <hr></hr>
+    <hr>
 
 <h2>Antropomeetria</h2>
 
