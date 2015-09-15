@@ -27,12 +27,12 @@
 <div class="valgetaust">
 
     <!--Here it begins-->
-
+    <br>
 <h1>Minu kontakt:</h1>
  <p>Nimi: Rasmus Pind<br>
     E-mail: rasmus.pind@khk.ee
 
-
+    <hr></hr>
 
 <h2>Antropomeetria</h2>
 
